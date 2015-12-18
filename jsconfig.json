@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+        "target": "ES6",
+        "module": "commonjs"
+    },
+	"files": [
+		"/typings/jquery/jquery.d.ts",
+		"/typings/underscore/underscore.d.ts",
+		"/typings/backbone/backbone-global.d.ts",
+		"/typings/backbone/backbone.d.ts",
+		"/public/js/demo/models/sensor.js",
+		"/public/js/demo/collections/sensors.js"
+	]
+}
